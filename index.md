@@ -9,3 +9,7 @@ This is how you use Markdown to form documentation for a project.
 dice <- c(1:6)
 sample(dice, 2)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to world 
